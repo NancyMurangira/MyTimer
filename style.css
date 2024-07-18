@@ -21,7 +21,7 @@ body {
   }
   
   body.light {
-    background-image: url('photo-1524055988636-436cfa46e59e\ \(1\).avif');
+    background-image: url('lightbackground.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh; 
